@@ -5,9 +5,8 @@
 In the past years I focused mainly on Microsoft Teams (Voice and Pro-Code and Low-Code) which allowed me to gain knowledge and field experience in different scenarios.
 
 * 🌍  I'm based in Munich Germany
-* 🌱  I'm learning JavaScript, Node.js and React
-* 🤝  I'm open to collaborating on interesting projects related to Microsoft Teams
-* 💬 Ask me about anything around Microsoft Teams
+* 🤝  I'm open to collaborating on interesting projects related to Microsoft 365 Copilot
+* 💬 Ask me about anything around Microsoft 365 Copilot and Microsoft Teams
 * ✉️  You can contact me at [@saibothe](mailto:@saibothe)
 
 
