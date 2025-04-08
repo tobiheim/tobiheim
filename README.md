@@ -1,6 +1,6 @@
 ## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) - My name is Tobias Heim
 
-### Cloud Solution Architect
+### Sr. Cloud Solution Architect
 
 In the past years I focused mainly on Microsoft 365 Copilot which allowed me to gain knowledge and field experience in different scenarios.
 
