@@ -15,10 +15,10 @@ In the past years I focused mainly on Microsoft 365 Copilot which allowed me to 
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.microsoft.com/de-de/microsoft-365/copilot/chat?msockid=0a3925f28cd06bfb384530558d4f6adc" target="_blank" rel="noreferrer"><img src="https://www.tnext-labs.com/GitHub/myprofile/copilot.png" width="36" height="36" alt="Microsoft 365 Copilot" /></a>
+<a href="https://www.microsoft.com/de-de/microsoft-365/copilot/chat?msockid=0a3925f28cd06bfb384530558d4f6adc" target="_blank" rel="noreferrer"><img src="https://www.custyoos.com/GitHub/myprofile/copilot.png" width="36" height="36" alt="Microsoft 365 Copilot" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank" rel="noreferrer"><img src="https://www.tnext-labs.com/GitHub/myprofile/microsoft-teams-logo.png" width="36" height="36" alt="Microsoft Teams" /></a>
-<a href="https://powerplatform.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://www.tnext-labs.com/GitHub/myprofile/power-platform.png" width="36" height="36" alt="Power Platform" /></a>
-<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://www.tnext-labs.com/GitHub/myprofile/powershell.png" width="36" height="36" alt="PowerShell" /></a>
+<a href="https://powerplatform.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://www.custyoos.com/GitHub/myprofile/power-platform.png" width="36" height="36" alt="Power Platform" /></a>
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://www.custyoos.com/GitHub/myprofile/powershell.png" width="36" height="36" alt="PowerShell" /></a>
 </p>
 
 
