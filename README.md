@@ -5,8 +5,8 @@
 In the past years I focused mainly on Microsoft 365 Copilot which allowed me to gain knowledge and field experience in different scenarios.
 
 * 🌍  I'm based in Munich Germany
-* 🤝  I'm open to collaborating on interesting projects related to Microsoft 365 Copilot
-* 💬 Ask me about anything around Microsoft 365 Copilot and Microsoft Teams
+* 🤝  I'm open to collaborating on interesting projects related to Microsoft 365 Copilot and Copilot Studio.
+* 💬 Ask me about anything around Microsoft 365 Copilot and Copilot Studio.
 * ✉️  You can contact me at [@saibothe](mailto:@saibothe)
 
 
