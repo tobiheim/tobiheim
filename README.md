@@ -12,12 +12,7 @@ In the past years I focused mainly on Microsoft 365 Copilot which allowed me to 
 
 ### Skills
 
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.microsoft.com/de-de/microsoft-365/copilot/chat?msockid=0a3925f28cd06bfb384530558d4f6adc" target="_blank" rel="noreferrer"><img src="https://www.custyoos.com/GitHub/myprofile/copilot.png" width="36" height="36" alt="Microsoft 365 Copilot" /></a>
-<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://www.custyoos.com/GitHub/myprofile/powershell.png" width="36" height="36" alt="PowerShell" /></a>
-</p>
+Phyton, Powershell, Copilot Studio, Microsoft 365 Agents Toolkit
 
 
 ### Socials
